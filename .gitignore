@@ -1,0 +1,17 @@
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+#EXCEL, PDF DOCS
+
+*.PDF
+*.DOCS
+*.docx
+*.xls
+*.xlsx
+*.ppt
+
+#VARIABLES DE ENTORNO
+
+.env
